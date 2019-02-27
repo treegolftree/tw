@@ -1,0 +1,19 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+/* Global */
+html{
+  min-height: 100%;
+  overflow: hidden;
+}
+body{
+  height: calc(100vh - 8em);
+  font-family: 'Ubuntu', monospace;  
+  background-color:#ce3635;
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;}
+}
